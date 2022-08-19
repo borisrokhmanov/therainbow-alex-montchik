@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 Red
+Magenta
 Unicorn
 Yellow
 Green
@@ -12,3 +13,6 @@ these are the colors of the rainbow
 And the unicorn. 
 
 hortse
+=======
+Pony
+
